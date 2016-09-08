@@ -1,2 +1,3 @@
 # MyData2016ConsentExperience
-Tools used for MyData2016 workshop on consent experience
+This is a repository for the tools used in MyData2016 workshop on consent experience
+
